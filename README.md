@@ -1,17 +1,17 @@
-# Node.js Version Manager List
+# Status of React-related updates
 
-| Repository | Issues | Activity | Stars |
-| :--- | ---: | ---: | ---: |
-| [Volta](https://github.com/volta-cli/volta) | ![issues](https://img.shields.io/github/issues/volta-cli/volta.svg) | ![activity](https://img.shields.io/github/commit-activity/y/volta-cli/volta.svg) | ![stars](https://img.shields.io/github/stars/volta-cli/volta?style=social) |
-| [fnm](https://github.com/Schniz/fnm) | ![issues](https://img.shields.io/github/issues/Schniz/fnm.svg) | ![activity](https://img.shields.io/github/commit-activity/y/Schniz/fnm.svg) | ![stars](https://img.shields.io/github/stars/Schniz/fnm?style=social) |
-| [asdf](https://github.com/asdf-vm/asdf) | ![issues](https://img.shields.io/github/issues/asdf-vm/asdf.svg) | ![activity](https://img.shields.io/github/commit-activity/y/asdf-vm/asdf.svg) | ![stars](https://img.shields.io/github/stars/asdf-vm/asdf?style=social) |
-| [nvm-windows](https://github.com/coreybutler/nvm-windows) | ![issues](https://img.shields.io/github/issues/coreybutler/nvm-windows.svg) | ![activity](https://img.shields.io/github/commit-activity/y/coreybutler/nvm-windows.svg) | ![stars](https://img.shields.io/github/stars/coreybutler/nvm-windows?style=social) |
-| [n](https://github.com/tj/n) | ![issues](https://img.shields.io/github/issues/tj/n.svg) | ![activity](https://img.shields.io/github/commit-activity/y/tj/n.svg) | ![stars](https://img.shields.io/github/stars/tj/n?style=social) |
-| [nvm](https://github.com/nvm-sh/nvm) | ![issues](https://img.shields.io/github/issues/nvm-sh/nvm.svg) | ![activity](https://img.shields.io/github/commit-activity/y/nvm-sh/nvm.svg) | ![stars](https://img.shields.io/github/stars/nvm-sh/nvm?style=social) |
-| [nodebrew](https://github.com/hokaccha/nodebrew) | ![issues](https://img.shields.io/github/issues/hokaccha/nodebrew.svg) | ![activity](https://img.shields.io/github/commit-activity/y/hokaccha/nodebrew.svg) | ![stars](https://img.shields.io/github/stars/hokaccha/nodebrew?style=social) |
-| [nodenv](https://github.com/nodenv/nodenv) | ![issues](https://img.shields.io/github/issues/nodenv/nodenv.svg) | ![activity](https://img.shields.io/github/commit-activity/y/nodenv/nodenv.svg) | ![stars](https://img.shields.io/github/stars/nodenv/nodenv?style=social) |
-| [nodist](https://github.com/nullivex/nodist) | ![issues](https://img.shields.io/github/issues/nullivex/nodist.svg) | ![activity](https://img.shields.io/github/commit-activity/y/nullivex/nodist.svg) | ![stars](https://img.shields.io/github/stars/nullivex/nodist?style=social) |
+| Repository                                 |                                                             Issues |                                                                        Activity |                                                                     Stars |
+| :----------------------------------------- | -----------------------------------------------------------------: | ------------------------------------------------------------------------------: | ------------------------------------------------------------------------: |
+| [Next.js](https://github.com/vercel/next.js) | ![issues](https://img.shields.io/github/issues/vercel/next.js.svg) | ![activity](https://img.shields.io/github/commit-activity/y/vercel/next.js.svg) | ![stars](https://img.shields.io/github/stars/vercel/next.js?style=social) |
+| [Expo](https://github.com/expo/expo) | ![issues](https://img.shields.io/github/issues/expo/expo.svg) | ![activity](https://img.shields.io/github/commit-activity/y/expo/expo.svg) | ![stars](https://img.shields.io/github/stars/expo/expo?style=social) |
+| [React Native](https://github.com/facebook/react-native) | ![issues](https://img.shields.io/github/issues/facebook/react-native.svg) | ![activity](https://img.shields.io/github/commit-activity/y/facebook/react-native.svg) | ![stars](https://img.shields.io/github/stars/facebook/react-native?style=social) |
+| [Astro](https://github.com/withastro/astro) | ![issues](https://img.shields.io/github/issues/withastro/astro.svg) | ![activity](https://img.shields.io/github/commit-activity/y/withastro/astro.svg) | ![stars](https://img.shields.io/github/stars/withastro/astro?style=social) |
+| [Remix](https://github.com/remix-run/remix) | ![issues](https://img.shields.io/github/issues/remix-run/remix.svg) | ![activity](https://img.shields.io/github/commit-activity/y/remix-run/remix.svg) | ![stars](https://img.shields.io/github/stars/remix-run/remix?style=social) |
+| [Gatsby](https://github.com/gatsbyjs/gatsby) | ![issues](https://img.shields.io/github/issues/gatsbyjs/gatsby.svg) | ![activity](https://img.shields.io/github/commit-activity/y/gatsbyjs/gatsby.svg) | ![stars](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social) |
+| [React](https://github.com/facebook/react) | ![issues](https://img.shields.io/github/issues/facebook/react.svg) | ![activity](https://img.shields.io/github/commit-activity/y/facebook/react.svg) | ![stars](https://img.shields.io/github/stars/facebook/react?style=social) |
+| [Create React App](https://github.com/facebook/create-react-app) | ![issues](https://img.shields.io/github/issues/facebook/create-react-app.svg) | ![activity](https://img.shields.io/github/commit-activity/y/facebook/create-react-app.svg) | ![stars](https://img.shields.io/github/stars/facebook/create-react-app?style=social) |
 
-## Thanks
+## Refs
 
-https://shields.io/
+- https://react.dev/learn/start-a-new-react-project
+- https://shields.io/
